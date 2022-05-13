@@ -1,56 +1,32 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bugs : hide-and-seek
 
-> Description the project.
+> For this project I'm working with my learning partner, here @Josphat205. Each person is supposed find and fix the other person's bugs by following the listed down instructions.
+
+- Locate a bug using manual QA methods
+- Once bugs are prepared, clone your partner's repository.
+- Open the project in the browser and debug it using developer tools.
+- Fix the bug locally (don't push any changes).
+- Once the bug(s) is(are) identified and understood the problem(s), He will open an issue in the repository, describing the bug and the possible solution.
+- Identify how developer tools are used in debugging front-end code.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages : Javascript
+- Frameworks : `none`
+- Technologies used : Github and Git
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Live Demo Link : Not available 
 
 ## Authors
 
-👤 **Author1**
+👤 **Chris Siku**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Chrissiku)
 
 ## 🤝 Contributing
 

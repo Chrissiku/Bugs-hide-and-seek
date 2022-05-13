@@ -15,7 +15,7 @@
 ## Built With
 
 - Major languages : Javascript
-- Frameworks : `none`
+- Frameworks : Bootstrap5
 - Technologies used : Github and Git
 
 ## Live Demo 
